@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Syncronizer</string>
+
+    <string name="hello_world">App to start a sync service with server and Uber API</string>
+    <string name="sync_button">Start Sync</string>
+    <string name="action_settings">Settings</string>
+</resources>
